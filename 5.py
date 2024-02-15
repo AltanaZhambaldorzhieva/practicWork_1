@@ -1,1 +1,1 @@
-print(1234)
+print("Привет, Python!,Hello, Python!, Bonjour Python!, Hej, Python!, Hola, Python!", end = '\n')
